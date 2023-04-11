@@ -97,7 +97,7 @@ const Header = () => {
                     </div>
                 </div>
                 <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fmonogram-ao-logo%2F&psig=AOvVaw1MQPPpi9sAOf2y2kUZkHl0&ust=1681300096087000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDPsILhof4CFQAAAAAdAAAAABAE" />
+                    <img src="https://www.creativefabrica.com/wp-content/uploads/2019/02/Monogram-AO-Logo-by-Greenlines-Studios-580x386.jpg" alt="profile-pic" />
                 </div>
             </div>
         </div>
